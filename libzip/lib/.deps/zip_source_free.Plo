@@ -1,0 +1,111 @@
+zip_source_free.lo: zip_source_free.c \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/stdlib.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/cdefs.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/android/api-level.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/string.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/malloc.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/alloca.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/strings.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/sys/types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdint.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/stdint.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/_types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/machine/_types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/posix_types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/stddef.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/compiler.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm/posix_types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm/types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/types.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/machine/kernel.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/sysmacros.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/memory.h \
+ zipint.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/zlib.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/zconf.h \
+ zip.h zipconf.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/inttypes.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/stdio.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdarg.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/time.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/time.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/time.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm/siginfo.h \
+ /home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm-generic/siginfo.h \
+ ../config.h
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/stdlib.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/cdefs.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/android/api-level.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stddef.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/string.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/malloc.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/alloca.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/strings.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/sys/types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdint.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/stdint.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/_types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/machine/_types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/posix_types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/stddef.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/compiler.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm/posix_types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm/types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/types.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/machine/kernel.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/sysmacros.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/memory.h:
+
+zipint.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/zlib.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/zconf.h:
+
+zip.h:
+
+zipconf.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/inttypes.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include-fixed/stdio.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/bin/../lib/gcc/arm-linux-androideabi/4.6/include/stdarg.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/time.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/sys/time.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/linux/time.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm/siginfo.h:
+
+/home/sark/Downloads/liero/OpenLieroX/toolchain/sysroot/usr/include/asm-generic/siginfo.h:
+
+../config.h:

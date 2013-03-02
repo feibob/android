@@ -1,0 +1,485 @@
+Indonesia
+PROP_FONT_FILE
+Prop-Latin1.bdf
+################################################################################
+#                                                                              #
+#                        Simutrans Base Translation File                       #
+#                             Scenario: Base texts                             #
+#                            Language: id Indonesia                            #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 23.12 2012                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                    - Dwachs                                  #
+#                                    note:                                     #
+#                             Edi Imanto - EImanto                             #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                                    note:                                     #
+#                                     - Mhxi                                   #
+#                                    note:                                     #
+#                                    - daffi                                   #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#__________________________________button_text__________________________________
+#__________________________________button_text__________________________________
+Apply Line
+Terapkan
+cl_btn_sort_asc
+Ascending
+cl_btn_sort_desc
+Descending
+cl_btn_sort_income
+Laba
+cl_btn_sort_name
+Nama
+cl_btn_sort_type
+Jenis
+clf_btn_alle
+Semua
+Construction_Btn
+Construction Exp.
+follow me
+Ikuti ini
+gl_btn_sort_bonus
+Bonus
+gl_btn_sort_catg
+Kategori
+gl_btn_sort_name
+Nama
+gl_btn_sort_revenue
+Harga
+gl_btn_unsort
+Acak
+go home
+Kirim ke Dipo
+hl_btn_sort_waiting
+Menunggu
+hlf_btn_alle
+Semua
+hlf_btn_invers
+Balik
+koord
+kordinat
+Lade Relief
+Peta Buatan
+Load game
+Load Game
+Load scenario
+Load Scenario
+Optionen
+Opsi
+Sprache
+Bahasa
+Start
+Mulai
+Starte Spiel
+Mainkan!
+#_________________________________climates_text_________________________________
+#_________________________________climates_text_________________________________
+arctic
+Iklim Kutub
+desert
+Gurun
+mediterran
+Iklim Mediterrania
+rocky
+Iklim Alpen
+tropic
+Iklim Tropis
+tundra
+Iklim Tundra
+#__________________________________error_text___________________________________
+#__________________________________error_text___________________________________
+Autohalt muss auf\nStrasse liegen!\n
+Halte Bus\nharus dibuat\ndi jalan.
+Bruecke muss an\neinfachem\nHang beginnen!\n
+Jembatan harus\ndibuat ditanah\nyang lurus!\n
+Diese Zusammenstellung kann nicht fahren!\n
+Salah Kombinasi\nKendaraan tdk dpt bergerak!\n
+Maglevhalt muss auf\nMaglevschiene liegen!\n
+Stasiun Maglev harus dibuat di jalur maglev
+Monorailhalt muss auf\nMonorail liegen!\n
+Stasiun Monorel\nharus dibuat di\njalur Monorel!\n
+Monorails are not available yet!
+Monorel belum dikembangkan!
+#___________________________________help_text___________________________________
+#___________________________________help_text___________________________________
+#____________________________________ki_text____________________________________
+#____________________________________ki_text____________________________________
+#___________________________________menu_text___________________________________
+#___________________________________menu_text___________________________________
+AIRTOOLS
+Infrastruktur Pesawat
+EDITTOOLS
+Infrastruktur Publik
+LISTTOOLS
+Data-Data
+MAGLEVTOOLS
+Infrastruktur Maglev
+MONORAILTOOLS
+Infrastruktur Monorel
+RAILTOOLS
+Infrastruktur Kereta
+ROADTOOLS
+Infrastruktur Jalan
+SHIPTOOLS
+Infrastruktur Kapal
+SLOPETOOLS
+Perbaiki Lahan
+SPECIALTOOLS
+Infrastruktur Khusus
+TRAMTOOLS
+Infrastruktur Trem
+#_________________________________message_text__________________________________
+#_________________________________message_text__________________________________
+Bankrott:\n\nDu bist bankrott.\n
+Bankrut:\n\nAnda tidak dapat membayar utang, Anda PAILIT!\n
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+(%i)-
+(%i)
+(in depot)
+Di Dipo
+\nBauzeit bis
+-
+\nis reserved by:
+\nDigunakan Kereta:
+\nminimum speed:
+\nKecepatan Minimum:
+\nnot elektrified
+\nTidak Terelektrifikasi\n
+\nsingle way
+\nSatu Arah
+%s has entered a depot.
+%s telah kembali ke Dipo
+%s\nis crowded.
+%s\n Penuh.
+1LIGHT_CHOOSE
+Brightness
+1WORLD_CHOOSE
+Peta
+2LIGHT_CHOOSE
+Warna
+2WORLD_CHOOSE
+No. Peta
+3LIGHT_CHOOSE
+Scroll Speed
+4LIGHT_CHOOSE
+Scroll Inverse
+5LIGHT_CHOOSE
+Pederstrians at stops
+5WORLD_CHOOSE
+Jumlah Kota
+6LIGHT_CHOOSE
+Pedestrians in town
+6WORLD_CHOOSE
+Traffic Density
+8WORLD_CHOOSE
+Tampilkan Malam Hari
+Abfrage
+Lihat
+Abnehmer
+Konsumen
+About
+Tentang
+Abriss
+Hapus
+Absenken
+Turunkan Daratan
+Abspanntransformator
+Gardu Listrik
+Accelerate time
+Percepat Waktu
+Add forest
+Membuat Hutan
+Add random citycar
+Tambah kendaraan penduduk
+Anheben
+Naikkan Daratan
+Arbeiter aus:
+Tempat Tinggal Pekerja:
+Arrived
+Datang
+Assets
+Aktiva Tetap
+Aufloesen
+Batalkan
+Aufspanntransformator
+Gardu Listrik
+August
+Agustus
+Bahndepot
+Dipo Kereta
+battery
+Baterai
+Baum
+Pohon
+baum builder
+Tanami Pohon
+Beenden
+Quit
+Besonderes Gebaeude
+Venue
+BF
+Stasiun
+bio
+Biologis
+Blockstrecke ist\nbelegt\n
+\nJalur sedang digunakan kereta lainnya,\ntunggu hingga kereta lewat!\n
+Boden
+Tanah
+Bruecke
+Jembatan
+Brueckenboden
+Jembatan
+Build air depot
+Hangar Pesawat
+Build city market
+Bangun Rangkaian Industri di sekitar kota ini.
+Build drain
+Gardu Listrik
+build HQ
+Bangun Kantor Anda
+Build land consumer
+Bangun Pembangkit listrik
+Build maglev depot
+Dipo Maglev
+Build monorail depot
+Dipo Monorel
+Build powerline
+Bangun SUTET
+Build road depot
+Garasi
+Build ship depot
+Dipo Kapal
+Build train depot
+Dipo Kereta
+Build tram depot
+Dipo Tram
+Build truck depot
+Garasi
+Building costs estimates
+Perkiraan Biaya
+Buildings
+Jumlah Bangunan
+Built artifical slopes
+Perbaiki bentuk tanah
+Built random attraction
+Bangun Venue apapun
+Bus_tab
+Bus
+Cancel
+Batalkan
+Capacity: %d%s %s\n
+Kapasitas: %3d%s %s\n
+Cash
+Kas
+Change player
+Ganti Pemain
+Chart
+Grafik
+chooses a random map
+Peta Acak
+citicens
+Penduduk
+City attraction
+Venue dalam kota
+City industries
+Industri
+City list
+Daftar Kota
+City size
+Jumlah Penduduk
+city_road
+Jalan Perkotaan
+citybuilding builder
+Bangun Rumah penduduk
+CityLimit
+Batas Kota
+Destination
+Kedatangan
+Destroying map ...
+Menghapus peta yang lalu...
+Details
+Detil
+Direkt erreichbare Haltestellen
+Rute langsung dari sini:
+disable midi
+Matikan Musik
+Distance
+Jarak
+Dock
+Galangan Kapal
+Durchsatz
+Tingkat Produksi:  
+Farbe
+Pilihan Warna
+Finanzen
+Kondisi Keuangan
+Fracht
+Barang
+Gross Profit
+Cash Flow
+Helligk.
+Display
+hl_title
+Daftar Stasiun
+hl_txt_filter
+Filter:
+hl_txt_sort
+Disusun menurut:
+hlf_chk_anleger
+Pelabuhan
+hlf_chk_bahnhof
+Stasiun Kereta Api
+hlf_chk_bushalt
+Pemberhentian Bus
+hlf_chk_keine_verb
+tidak ada jaringan
+hlf_chk_maglevstop
+Stasiun Maglev
+Laden
+Load
+Loading (%i->%i%%)!
+Terisi (%i->%i%%)!
+Loading addon paks ...
+Sedang Memuat Addons ...
+Loading map ...
+Sedang memuat peta
+Loading paks ...
+Sedang memuat file utama ...
+Loading skins ...
+Sedang memuat skin ...
+Lokomotive_tab
+Lokomotif
+m3
+m³
+maglev vehicle
+Maglev
+maglev_track
+Jalur Maglev
+Maglevdepot
+Dipo Maglev
+Mailbox
+Pesan
+Map roughness
+Kerumitan Peta:
+map zoom
+Perbesar Peta
+March
+Maret
+Margin (%)
+Marjin
+Max income:
+Pendapatan Max:
+Max. speed:
+Kecepatan Max:
+Maximum 254 stops\nin a schedule!\n
+Pemberhentian tidak dapat ditambahkan\nMaksimal 254 pemberhentian!\n
+Monorail
+Monorel
+monorail vehicle
+Kendaraan Monorel
+Monorailboden
+Substruktur Monorel
+Net Wealth
+Ekuitas
+Neue Karte
+New Game
+Nickname:
+Panggilan
+no buildings hidden
+tampilkan gedung
+no convois
+Tak ada iringan
+No goods are loaded onto this convoi.
+Kendaraan ini bukan untuk mengangkut barang jenis ini
+no goods waiting
+Tak ada penumpukan brg
+no load
+Tidak memuat
+No Route
+Tak ada trayek
+No stop here!
+Harus ditempatkan di pemberhentian!
+Ops Profit
+Operating Profit
+Passagiere
+Penumpang
+Passagierrate
+Jumlah Pengunjung
+PaxDest
+Tujuan
+player 2
+Trikky Transport
+player 3
+Meyer Moving Co.
+Post
+Pos
+Postrate
+Jumlah Pos
+Produktion
+Produksi
+Reliefkarte
+Peta
+remove channels
+Hapus Kanal
+remove monorails
+Hilangkan Jalur Monorel
+remove tracks
+Hapus Rel
+Restwert:
+Nilai Jual:
+return ticket
+Balik Jalur
+Revenue
+Laba Kendaraan
+Revision:
+Revisi
+road
+Jalanan
+Road toll
+Jalan Tol
+road vehicle
+Kendaraan
+Roadsign
+Rambu-Rambu
+Size (%d MB):
+Luas Peta
+Speichern
+Save
+Spieler(mz)
+Pemain
+Spielerliste
+Daftar Pemain
+Sprachen
+Bahasa
+tonnen
+Ton
+TrolleyBus_tab
+Busway
+Verbrauch
+Konsumsi
+#__________________________________record_text__________________________________
+#__________________________________record_text__________________________________
+New world record for monorails: %.1f km/h by %s.
+MHX NEWS: Rekor kecepatan di dunia Monorel terpecahkan dengan kecepatan: %.1f km/h oleh %s. Selamat kepada Human, silahkan hubungi forums.simutrans.com untuk berbagi kisah anda dalam bermain game ini.
+New world record for motorcars: %.1f km/h by %s.
+MHX NEWS: Rekor kecepatan di dunia Jalan Darat terpecahkan dengan kecepatan: %.1f km/h oleh %s. Selamat kepada Human, silahkan hubungi forums.simutrans.com untuk berbagi kisah anda dalam bermain game ini.
+New world record for planes: %.1f km/h by %s.
+MHX NEWS: Rekor kecepatan di dunia Pesawat Terbang terpecahkan dengan kecepatan: %.1f km/h oleh %s. Selamat kepada Human, silahkan hubungi forums.simutrans.com untuk berbagi kisah anda dalam bermain game ini.
+New world record for railways: %.1f km/h by %s.
+MHX NEWS: Rekor kecepatan di dunia Kereta Api terpecahkan dengan kecepatan: %.1f km/h oleh %s. Selamat kepada Human, silahkan hubungi forums.simutrans.com untuk berbagi kisah anda dalam bermain game ini.
+New world record for ship: %.1f km/h by %s.
+MHX NEWS: Rekor kecepatan di dunia Kapal Laut terpecahkan dengan kecepatan: %.1f km/h oleh %s. Selamat kepada Human, silahkan hubungi forums.simutrans.com untuk berbagi kisah anda dalam bermain game ini.
+#_______________________________unnecessary_text________________________________
+#_______________________________unnecessary_text________________________________
+2suburb
+%s Pedesaan %s %s
+4extern
+%s luar %s
